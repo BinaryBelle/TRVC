@@ -662,7 +662,7 @@ input::-ms-input-placeholder {
 }
 /*home section*/
 .home{
-    background: url(http://ltclub.com.ua/media/k2/galleries/1230/009541-05-beach.jpg/*../images/homebg.jpg*/) no-repeat center center;
+    background: url(../images/beachparasol.jpg) no-repeat center center;
     background-size: cover;
 }
 .home_skew_border{
