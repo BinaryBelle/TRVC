@@ -1294,7 +1294,7 @@ li .single_team_text p{
     background: #f4f5f9;
 }
 .main_clogo{
-    overflow: hidden;
+    overflow: show;
 }
 .main_clogo a{
     height: 100px;
